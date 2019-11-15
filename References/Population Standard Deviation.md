@@ -1,10 +1,10 @@
-Population Standard Deviation
+# Population Standard Deviation
 
-What is Population Standard Deviation?
+## What is Population Standard Deviation?
 
 Standard deviation is a calculation of the dispersion or variation in a set of numbers. If the standard deviation is a small number, it means the data points are close to their mean value. If the deviation is large, it means the numbers are spread out, further from the mean.
 
-The standard deviation formula is denoted by the following:
+## The standard deviation formula is denoted by the following:
 
 σ = ([Σ(x - u)2]/N)1/2
 Where:

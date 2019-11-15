@@ -1,6 +1,6 @@
-Population Mean
+# Population Mean
 
-What is Mean?
+## What is Mean?
 
 Population mean is basically the average of an entire group. It is derived by calculating the sum of the group and then dividing the sum from the number of entities in that group.
 

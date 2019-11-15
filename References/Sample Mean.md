@@ -1,6 +1,6 @@
-Sample Mean
+# Sample Mean
 
-What is Sample Mean?
+## What is Sample Mean?
 
 Sample Mean is when we take a random sample from the entire population and calculate the mean for the randomly selected sample.
 

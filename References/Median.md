@@ -1,6 +1,6 @@
-                                                        Median
+# Median
 
-What is Median?
+## What is Median?
 
 A Median is a middle number in a data set. It is a sorted list in ascending order.
 

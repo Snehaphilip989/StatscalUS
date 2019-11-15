@@ -1,6 +1,6 @@
-Variance of sample proportion
+# Variance of sample proportion
 
-What is Variance of sample proportion?
+## What is Variance of sample proportion?
 
 The variance of sample proportion is similar to the variance of the population proportion. The difference in variance of sample proportion is that it is calculated for a randomly selected sample from the entire population.
 

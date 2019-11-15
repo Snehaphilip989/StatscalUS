@@ -1,6 +1,6 @@
-Sample Standard Deviation
+# Sample Standard Deviation
 
-What is Sample Standard Deviation?
+## What is Sample Standard Deviation?
 
 Sample Standard Deviation is when we take a random sample from the entire population and calculate the standard deviation for the randomly selected sample.
 

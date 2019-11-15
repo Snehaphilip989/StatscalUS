@@ -1,4 +1,4 @@
-What is Correlation Coefficient?
+# What is Correlation Coefficient?
 
 The correlation coefficient is a statistical measure that calculates the strength of the relationship between the relative movements of 
 two variables. The values range between -1.0 and 1.0. A calculated number greater than 1.0 or less than -1.0 means that there was an error in the correlation measurement. A correlation of -1.0 shows a perfect negative correlation, while a correlation of 1.0 shows a perfect positive correlation. A correlation of 0.0 shows no relationship between the movement of the two variables.

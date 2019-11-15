@@ -1,6 +1,6 @@
-Proportion
+# Proportion
 
-What is Proportion?
+## What is Proportion?
 
 A proportion refers to the fraction of the number of elements that possesses a certain attribute to the total number of elements in the population.
 

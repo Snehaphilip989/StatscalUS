@@ -1,4 +1,4 @@
-What is Mode?
+# What is Mode?
 
 A Mode is the most recurring number in a given list.
 
